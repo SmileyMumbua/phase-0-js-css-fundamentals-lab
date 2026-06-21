@@ -5,6 +5,22 @@
     text-align: center;
     position: fixed;
     width: 100%;
-    top: o;
+    top: 0;
     z-index: 1000;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+     
+}
+
+.navbar li {
+    display: inline;
+    margin: 0 1em;
+    }
+
+.navbar li a {
+    text-color: #fff;
 }
